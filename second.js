@@ -101,7 +101,4 @@ function testZoo() {
     console.log(hasAnimal("Лев", zoo)); // false
     console.log(hasAnimal("Lion", zoo)); // true
 }
-
 testZoo();
-
-

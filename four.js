@@ -58,7 +58,6 @@ function testMap() {
         console.log("Test failed: map was not cleared");
     }
 }
-
 testMap();
 
 
