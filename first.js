@@ -22,8 +22,4 @@ function testfirst() {
     }
 
 }
-
 testfirst();
-
-
-
